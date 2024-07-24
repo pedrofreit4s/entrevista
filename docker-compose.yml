@@ -8,3 +8,4 @@ services:
     environment:
       POSTGRES_USER: usuario
       POSTGRES_PASSWORD: senha
+      POSTGRES_DB: teste
